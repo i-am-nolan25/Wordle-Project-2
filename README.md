@@ -10,7 +10,7 @@ Time spent: **3** hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
+The following **required** functionalities are completed:
 
 Objective 1: Change the number of letters in the word goal (Exercise 1)
 - [x] Implement the ```applyNumLettersSettings``` function. 
@@ -24,7 +24,7 @@ Objective 3: Change the word theme (Exercise 3)
 Objective 4: Make the game harder!
 - [x] Implement the ```applyIsAlienWordleSettings``` function.
 
-The following **stretch** features are implemented:
+The following **stretch** feature is implemented:
 
 - [x] Add a button on the left-hand side of the navigation bar to reset the game with the current settings
 
