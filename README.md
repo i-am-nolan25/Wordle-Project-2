@@ -30,7 +30,7 @@ The following **stretch** feature is implemented:
 
 ## Video Walkthrough
 
-https://github.com/i-am-nolan25/Wordle-Project-2/assets/113712250/8c63c2f9-82de-4a88-97d2-a909b389a4d5
+https://github.com/i-am-nolan25/Wordle-Project-2/assets/113712250/737ca635-22fa-42fa-b989-c8eb04581ab6
 
 ## License
 
